@@ -1,0 +1,350 @@
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\obj\Debug\OnlineShop.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\obj\Debug\OnlineShop.pdb
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\OnlineShop.dll.config
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\OnlineShop.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\OnlineShop.pdb
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\csc.exe
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\csc.exe.config
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\csc.rsp
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\csi.exe
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\csi.exe.config
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\csi.rsp
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.AppContext.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Console.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Security.Claims.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\vbc.exe
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\vbc.exe.config
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\vbc.rsp
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Antlr3.Runtime.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\EntityFramework.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\EntityFramework.SqlServer.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Logger.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Model.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Newtonsoft.Json.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\PagedList.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\PagedList.Mvc.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Helpers.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Mvc.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Optimization.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Razor.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.WebPages.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\WebGrease.dll
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Model.pdb
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Model.dll.config
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\EntityFramework.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\EntityFramework.SqlServer.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\PagedList.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\PagedList.Mvc.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Helpers.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Mvc.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Optimization.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.Razor.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.WebPages.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Newtonsoft.Json.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Antlr3.Runtime.pdb
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Docnet\OnlineShop - Copy\OnlineShop\obj\Debug\TestUngDung.csproj.CopyComplete
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\OnlineShop.dll.config
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\OnlineShop.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\OnlineShop.pdb
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\csc.exe
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\csc.exe.config
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\csc.rsp
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\csi.exe
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\csi.exe.config
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\csi.rsp
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.AppContext.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Console.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Claims.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\vbc.exe
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\vbc.exe.config
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\vbc.rsp
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Antlr3.Runtime.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\EntityFramework.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\EntityFramework.SqlServer.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Logger.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Model.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Newtonsoft.Json.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\PagedList.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\PagedList.Mvc.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Helpers.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Mvc.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Optimization.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Razor.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\WebGrease.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Model.pdb
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Model.dll.config
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\EntityFramework.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\EntityFramework.SqlServer.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\PagedList.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\PagedList.Mvc.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Helpers.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Mvc.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Optimization.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.Razor.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Newtonsoft.Json.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Antlr3.Runtime.pdb
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\obj\Debug\TestUngDung.csproj.CopyComplete
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\obj\Debug\OnlineShop.dll
+D:\Documents\Docnet\TranAnhMinh\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\minh\TranAnhMinh\OnlineShop\bin\OnlineShop.dll.config
+E:\minh\TranAnhMinh\OnlineShop\bin\OnlineShop.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\OnlineShop.pdb
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\csc.exe
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\csc.exe.config
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\csc.rsp
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\csi.exe
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\csi.exe.config
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\csi.rsp
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Console.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Claims.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\vbc.exe
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\vbc.exe.config
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\vbc.rsp
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\minh\TranAnhMinh\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\minh\TranAnhMinh\OnlineShop\bin\Antlr3.Runtime.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\EntityFramework.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\Model.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\Newtonsoft.Json.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\PagedList.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\PagedList.Mvc.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Helpers.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Mvc.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Optimization.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Razor.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\WebGrease.dll
+E:\minh\TranAnhMinh\OnlineShop\bin\Model.pdb
+E:\minh\TranAnhMinh\OnlineShop\bin\Model.dll.config
+E:\minh\TranAnhMinh\OnlineShop\bin\EntityFramework.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\PagedList.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\PagedList.Mvc.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Helpers.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Mvc.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Optimization.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.Razor.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\Newtonsoft.Json.xml
+E:\minh\TranAnhMinh\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\minh\TranAnhMinh\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\minh\TranAnhMinh\OnlineShop\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+E:\minh\TranAnhMinh\OnlineShop\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+E:\minh\TranAnhMinh\OnlineShop\obj\Debug\TestUngDung.csproj.CopyComplete
+E:\minh\TranAnhMinh\OnlineShop\obj\Debug\OnlineShop.dll
+E:\minh\TranAnhMinh\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\minh\CaiQuocDat\OnlineShop\bin\OnlineShop.dll.config
+E:\minh\CaiQuocDat\OnlineShop\bin\OnlineShop.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\OnlineShop.pdb
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\csc.exe
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\csc.exe.config
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\csc.rsp
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\csi.exe
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\csi.exe.config
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\csi.rsp
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Console.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Security.Claims.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\vbc.exe
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\vbc.exe.config
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\vbc.rsp
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\minh\CaiQuocDat\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\minh\CaiQuocDat\OnlineShop\bin\Antlr3.Runtime.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\EntityFramework.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\EntityFramework.SqlServer.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\Model.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\Newtonsoft.Json.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\PagedList.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\PagedList.Mvc.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Helpers.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Mvc.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Optimization.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Razor.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.WebPages.Deployment.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.WebPages.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.WebPages.Razor.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\WebGrease.dll
+E:\minh\CaiQuocDat\OnlineShop\bin\Model.pdb
+E:\minh\CaiQuocDat\OnlineShop\bin\Model.dll.config
+E:\minh\CaiQuocDat\OnlineShop\bin\EntityFramework.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\EntityFramework.SqlServer.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\PagedList.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\PagedList.Mvc.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Helpers.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Mvc.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Optimization.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.Razor.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.WebPages.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.WebPages.Deployment.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\System.Web.WebPages.Razor.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\Newtonsoft.Json.xml
+E:\minh\CaiQuocDat\OnlineShop\bin\Antlr3.Runtime.pdb
+E:\minh\CaiQuocDat\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\minh\CaiQuocDat\OnlineShop\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+E:\minh\CaiQuocDat\OnlineShop\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+E:\minh\CaiQuocDat\OnlineShop\obj\Debug\TestUngDung.csproj.CopyComplete
+E:\minh\CaiQuocDat\OnlineShop\obj\Debug\OnlineShop.dll
+E:\minh\CaiQuocDat\OnlineShop\obj\Debug\OnlineShop.pdb
